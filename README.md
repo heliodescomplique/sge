@@ -16,3 +16,4 @@ Módulos utilizados:
 - [os](https://www.npmjs.com/package/os) 0.1.2
 - [fetch-installed-software](https://www.npmjs.com/package/fetch-installed-software) 0.0.7
 - [node-disk-info](https://www.npmjs.com/package/node-disk-info) 1.3.0
+- [electron-squirrel-startup](https://www.npmjs.com/package/electron-squirrel-startup) 1.0.0
