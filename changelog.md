@@ -4,3 +4,6 @@
 - Se a aplicação está rodando, abre a janela de splash ao tentar abrir uma nova instância. Isso impede que a aplicação rode várias vezes.
 - Caso usuário selecione a opção **salvar meus dados** ao gerar um chamado, traz a opção selecionada na abertura de chamado seguinte
 - Deixa de exibir tabelas vazias nas informações do computador
+
+# v1.0.2
+- Alterações de layout
