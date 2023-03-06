@@ -12,3 +12,6 @@
 - Mensagens de processamento, erro e sucesso passam a ser exibidas em modal
 - Correções diversas de layout
 - Inserida propriedade CSS para impedir a seleção de textos
+
+# v1.0.4
+- Modo escuro
