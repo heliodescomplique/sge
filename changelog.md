@@ -15,3 +15,8 @@
 
 # v1.0.4
 - Modo escuro
+
+# v1.0.5
+- Oculta as bordas e o menu das janelas (**ALT + M** para reexibir ou ocultar o menu)
+- Insere botões para alternar entre modo escuro e modo claro e fechar a janela
+- Cria uma janela minimizada que permite fechar todas as janelas visíveis sem parar a execução do programa
