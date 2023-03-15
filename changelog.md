@@ -20,3 +20,9 @@
 - Oculta as bordas e o menu das janelas (**ALT + M** para reexibir ou ocultar o menu)
 - Insere botões para alternar entre modo escuro e modo claro e fechar a janela
 - Cria uma janela minimizada que permite fechar todas as janelas visíveis sem parar a execução do programa
+
+# v1.0.6
+- Correção de erro que ocorria ao pressionar **ALT + M** (janela fechava e não reabria)
+- Permite exibir a janela de ferramentas do desenvolvedor (DevTools) ao pressionar **CTRL + SHIFT + I**
+- Passa a buscar o ID de conexão dos programas RustDesk, Team Viewer e AnyDesk
+- Insere validação da última atualização enviada para o SGC e efetua nova atualização após 10 dias
