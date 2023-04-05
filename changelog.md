@@ -26,3 +26,6 @@
 - Permite exibir a janela de ferramentas do desenvolvedor (DevTools) ao pressionar **CTRL + SHIFT + I**
 - Passa a buscar o ID de conexão dos programas RustDesk, Team Viewer e AnyDesk
 - Insere validação da última atualização enviada para o SGC e efetua nova atualização após 10 dias
+
+# v1.0.7
+- Correção de erro que ocorria ao cadastrar novo equipamento, indicando que o UUID e número de série devem ser informados
