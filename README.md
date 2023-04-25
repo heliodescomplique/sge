@@ -7,7 +7,7 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 
 Módulos utilizados:
 
-- [Electron](https://releases.electronjs.org/) 24.0.0
+- [Electron](https://releases.electronjs.org/) 24.1.2
 - [update-electron-app](https://www.npmjs.com/package/update-electron-app) 2.0.1
 - [auto-launch](https://www.npmjs.com/package/auto-launch) 5.0.5
 - [electron-store](https://www.npmjs.com/package/electron-store) 8.1.0

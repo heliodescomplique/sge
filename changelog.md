@@ -29,3 +29,8 @@
 
 # v1.0.7
 - Correção de erro que ocorria ao cadastrar novo equipamento, indicando que o UUID e número de série devem ser informados
+
+# v1.0.8
+- Alteração do retorno ao obter JSON inválido (ex.: mensagem HTML retornada pelo servidor) ou erro de conexão (ex.: site indisponível)
+- Deixa de chamar a função para atualização do token caso o usuário ou token não estejam salvos nos dados da aplicação
+- Passa a enviar a informação da versão ao efetuar a atualizar os dados do equipamento via tela
