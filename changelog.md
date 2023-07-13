@@ -34,3 +34,6 @@
 - Alteração do retorno ao obter JSON inválido (ex.: mensagem HTML retornada pelo servidor) ou erro de conexão (ex.: site indisponível)
 - Deixa de chamar a função para atualização do token caso o usuário ou token não estejam salvos nos dados da aplicação
 - Passa a enviar a informação da versão ao efetuar a atualizar os dados do equipamento via tela
+
+# v1.0.9
+- Alteração da validação de aplicação configurada, efetuada ao clicar no botão Abrir Chamado na tela principal
