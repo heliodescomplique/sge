@@ -37,3 +37,6 @@
 
 # v1.0.9
 - Alteração da validação de aplicação configurada, efetuada ao clicar no botão Abrir Chamado na tela principal
+
+# v1.0.10
+- Passa a chamar a função para atualização de token a cada três horas e meia.
