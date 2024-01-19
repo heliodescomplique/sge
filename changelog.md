@@ -40,3 +40,7 @@
 
 # v1.0.10
 - Passa a chamar a função para atualização de token a cada três horas e meia.
+
+# v1.0.11
+- Passa a utilizar função --get-id para obter id do RustDesk (requer privilégios administrativos)
+- Correção do intervalo de atualização do token
