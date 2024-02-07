@@ -44,3 +44,7 @@
 # v1.0.11
 - Passa a utilizar função --get-id para obter id do RustDesk (requer privilégios administrativos)
 - Correção do intervalo de atualização do token
+
+# v1.0.12
+- Ao abrir a aplicação, aguarda dois minutos antes de validar o token.
+- Durante a validação, o menu listará apenas o item "Validando dados da aplicação"
