@@ -48,3 +48,8 @@
 # v1.0.12
 - Ao abrir a aplicação, aguarda dois minutos antes de validar o token.
 - Durante a validação, o menu listará apenas o item "Validando dados da aplicação"
+
+# v1.1.0
+- Remoção do repositório testegfo
+- Caso o UUID ou número de série não sejam informados, passa a exibir a mensagem de erro retornada pelo SGC
+- Versão do testegfo (1.0.43) é maior que a do SGE (1.0.12). Essa mudança de versão (para 1.1.0) possibilitará a atualização automática.
