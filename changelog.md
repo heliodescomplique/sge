@@ -56,3 +56,6 @@
 
 # v1.1.1
 - Aplicação passa a gravar logs. O caminho e tamanho atual do log serão exibidos na tabela "Arquivo de log" na tela "Meu PC".
+
+# v1.1.2
+- Incluídas informações de placas de vídeo, monitores, impressoras e dispositivos USB
