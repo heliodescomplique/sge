@@ -59,3 +59,6 @@
 
 # v1.1.2
 - Incluídas informações de placas de vídeo, monitores, impressoras e dispositivos USB
+
+# v1.1.3
+- Correção de erro [Object Object] ao abrir chamado
