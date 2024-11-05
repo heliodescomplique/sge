@@ -62,3 +62,8 @@
 
 # v1.1.3
 - Correção de erro [Object Object] ao abrir chamado
+
+# v1.1.4
+- Alteração na função que obtém o UUID
+- Correção da informação exibida em vRAM
+- Ajuste na requisição para refresh do token
