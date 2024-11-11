@@ -67,3 +67,9 @@
 - Alteração na função que obtém o UUID
 - Correção da informação exibida em vRAM
 - Ajuste na requisição para refresh do token
+
+# v1.1.5
+- Ajuste no envio de informações para as janelas (ex.: Dark mode)
+- Validação dos campos ao cadastrar um novo chamado
+- Remoção da funcionalidade de exibir ou ocultar o menu (**ALT + M**)
+- Ajustes na tela de configuração
