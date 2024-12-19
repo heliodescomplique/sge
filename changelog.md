@@ -73,3 +73,10 @@
 - Validação dos campos ao cadastrar um novo chamado
 - Remoção da funcionalidade de exibir ou ocultar o menu (**ALT + M**)
 - Ajustes na tela de configuração
+
+# v1.1.6
+- Ajustes no tratamento ao obter erro de conexão (equipamento sem Internet, SGC indisponível, etc)
+- Exibição do hostname e modelo do equipamento na tela de abertura de chamado
+- Tela de chamado passa a ser fechada automaticamente após a abertura do chamado
+- Exibição da informação FQDN na tela de configuração
+- Correção ao clicar em **usar ID** na tela de configuração
