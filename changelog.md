@@ -80,3 +80,7 @@
 - Tela de chamado passa a ser fechada automaticamente após a abertura do chamado
 - Exibição da informação FQDN na tela de configuração
 - Correção ao clicar em **usar ID** na tela de configuração
+
+# v1.1.7
+- Passa a salvar e enviar para o SGC a informação FQDN (anteriormente, era necessário efetuar a configuração do equipamento para salvar a informação)
+- Personalização do texto do botão em determinadas mensagens para o usuário
