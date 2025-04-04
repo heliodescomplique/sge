@@ -89,3 +89,8 @@
 - Correção de erro que impedia o cadastro de novo equipamento (o botão **Novo cadastro** não era exibido quando o equipamento não era localizado no SGC)
 - Exibição de informações básicas do equipamento (UUID, Número de Série, Modelo e FQDN) na tela "Meu PC". É indicada uma mensagem caso a aplicação não esteja configurada
 - Ajuste no comportamento no modal de aviso quando ação for "fechar_janela"
+
+# v1.1.9
+- Ajuste no tempo de obtenção de token quando ocorre falha na atualização
+- Alteração da validação de aplicação configurada e de token obtido
+- Exibição de mensagem para o usuário quando não é possível conectar ao servidor, com opção de abertura de chamado via site
