@@ -94,3 +94,8 @@
 - Ajuste no tempo de obtenção de token quando ocorre falha na atualização
 - Alteração da validação de aplicação configurada e de token obtido
 - Exibição de mensagem para o usuário quando não é possível conectar ao servidor, com opção de abertura de chamado via site
+
+# v1.1.10
+- Inclusão de campo para envio de anexos na abertura do chamado
+- Passa a validar parâmetros informados na inicialização, permitindo alteração da URL da API e ativar/desativar o modo debug (informações adicionais no log)
+- Cria uma área para mostrar as configurações alteradas (modo debug e URL da API, indisponível se não ocorrer alterações via inicialização com parâmetros)
