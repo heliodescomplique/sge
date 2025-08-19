@@ -99,3 +99,13 @@
 - Inclusão de campo para envio de anexos na abertura do chamado
 - Passa a validar parâmetros informados na inicialização, permitindo alteração da URL da API e ativar/desativar o modo debug (informações adicionais no log)
 - Cria uma área para mostrar as configurações alteradas (modo debug e URL da API, indisponível se não ocorrer alterações via inicialização com parâmetros)
+
+# v1.1.11
+- Inclusão de função para efetuar testes de conexão com a Internet e SGC
+- Alteração no processo de validação de aplicação configurada
+- Alteração no envio de erros para a janela do usuário (passa a mandar o tipo de erro, que pode ser conexão ou credenciais)
+- Passa a gravar os IDs de pré-chamados cadastrados
+- Passa a enviar o log e arquivo de configuração para o SGC em determinados erros
+- Passa a permitir a abertura de chamados quando a aplicação está configurada, mas não foi possível obter ou atualizar o token (deixa de exibir aplicação não configurada, erro comum quando um usuário de funcionário é desativado)
+- Ajuste na função de exibição de mensagens
+- Ajustes nas mensagens exibidas ao usuário
