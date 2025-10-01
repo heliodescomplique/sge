@@ -109,3 +109,11 @@
 - Passa a permitir a abertura de chamados quando a aplicação está configurada, mas não foi possível obter ou atualizar o token (deixa de exibir aplicação não configurada, erro comum quando um usuário de funcionário é desativado)
 - Ajuste na função de exibição de mensagens
 - Ajustes nas mensagens exibidas ao usuário
+
+# v1.1.12
+- Inclusão da tela (janela) Acompanhar Chamados, onde será possível obter o status de atendimento dos chamados abertos e também inserir comentários ou indicar que o chamado deve ser finalizado
+- Se não existir atalho para o SGE na Área de Trabalho, cria o atalho automaticamente
+- Tela de informações do sistema passa a exibir modal durante o carregamento
+- Ao abrir uma nova instância, é verificado se uma janela já está aberta, evitando que ela seja fechada
+- Ajustes na função de atualização / obtenção de token. Verificado nos logs recebidos pelo servidor que, em alguns casos, o usuário não é obtido para o processo de login
+- Ajustes em mensagens salvas no log ou exibidas para o usuário
