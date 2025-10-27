@@ -117,3 +117,8 @@
 - Ao abrir uma nova instância, é verificado se uma janela já está aberta, evitando que ela seja fechada
 - Ajustes na função de atualização / obtenção de token. Verificado nos logs recebidos pelo servidor que, em alguns casos, o usuário não é obtido para o processo de login
 - Ajustes em mensagens salvas no log ou exibidas para o usuário
+
+# v1.1.13
+- Se o usuário estiver logado e a aplicação configurada, substitui o botão "Meu PC" por "Acompanhar Chamados" na tela principal
+- Passa a solicitar o envio do log ao SGE após atualização automática dos dados
+- Ao enviar os logs, remove eventual arquivo de log antigo (.old.log) existente na pasta de logs
