@@ -122,3 +122,8 @@
 - Se o usuário estiver logado e a aplicação configurada, substitui o botão "Meu PC" por "Acompanhar Chamados" na tela principal
 - Passa a solicitar o envio do log ao SGE após atualização automática dos dados
 - Ao enviar os logs, remove eventual arquivo de log antigo (.old.log) existente na pasta de logs
+
+# v1.1.14
+- Remove o método alternativo utilizado na obtenção de usuário
+- Limpa o intervalo de obtenção de token quando o erro recebido for relacionado às credenciais
+- Ajustes nas mensagens salvas no log
