@@ -127,3 +127,8 @@
 - Remove o método alternativo utilizado na obtenção de usuário
 - Limpa o intervalo de obtenção de token quando o erro recebido for relacionado às credenciais
 - Ajustes nas mensagens salvas no log
+
+# v1.1.15
+- Passa a buscar o código do equipamento e código do cliente quando uma ou ambas as informações estão ausentes na configuração
+- Passa a buscar dados do equipamento diariamente, a fim de verificar eventual atualização do cliente no SGC. 
+- Correção de erro na montagem da URL (em alguns casos, o número de série retornado possuía espaços)
