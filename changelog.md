@@ -132,3 +132,7 @@
 - Passa a buscar o código do equipamento e código do cliente quando uma ou ambas as informações estão ausentes na configuração
 - Passa a buscar dados do equipamento diariamente, a fim de verificar eventual atualização do cliente no SGC. 
 - Correção de erro na montagem da URL (em alguns casos, o número de série retornado possuía espaços)
+
+# v1.1.16
+- Se não houver registro no log para o dia atual, altera as configurações definindo um novo nome para o arquivo de log
+- Passa a gravar o PID, alterando o formato do log
