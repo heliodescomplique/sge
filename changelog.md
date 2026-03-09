@@ -136,3 +136,8 @@
 # v1.1.16
 - Se não houver registro no log para o dia atual, altera as configurações definindo um novo nome para o arquivo de log
 - Passa a gravar o PID, alterando o formato do log
+
+# v1.1.17
+- Correção de erro ao tentar obter valor inexistente
+- Ajuste para obter processador e memória quando as informações estão ausentes
+- Ajuste no retorno quando ocorre erro ao efetuar requisição
