@@ -141,3 +141,10 @@
 - Correção de erro ao tentar obter valor inexistente
 - Ajuste para obter processador e memória quando as informações estão ausentes
 - Ajuste no retorno quando ocorre erro ao efetuar requisição
+
+# v1.1.18
+- Alteração da função usada para obter o UUID do equipamento (método anterior usava wmic, que foi removido do Windows 11)
+- Inclusão de funcionalidade para remoção da senha da aplicação. Para remover a senha da aplicação, será necessário efetuar o login no SGC e então configurar uma nova senha
+- Alteração da configuração do tamanho limite do arquivo de log
+- Remoção dos módulos **electron-squirrel-startup**, **node-disk-info** e **machine-uuid**
+- Ajustes em mensagens exibidas para o usuário nas telas de login e configuração
