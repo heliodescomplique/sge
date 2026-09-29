@@ -148,3 +148,6 @@
 - Alteração da configuração do tamanho limite do arquivo de log
 - Remoção dos módulos **electron-squirrel-startup**, **node-disk-info** e **machine-uuid**
 - Ajustes em mensagens exibidas para o usuário nas telas de login e configuração
+
+# v1.1.19
+- Ajuste na tela de configuração para busca através de UUID, número de série ou hostname (anteriormente, quando uma dessas informações não era obtida, o botão para pesquisa mantinha-se oculto)
