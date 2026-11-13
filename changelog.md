@@ -151,3 +151,9 @@
 
 # v1.1.19
 - Ajuste na tela de configuração para busca através de UUID, número de série ou hostname (anteriormente, quando uma dessas informações não era obtida, o botão para pesquisa mantinha-se oculto)
+
+# v1.1.20
+- Alteração no processo de busca e cadastro na tela de configuração
+- Remoção do botão "Novo cadastro" na tela de configuração
+- Ajustes para possibilitar cadastrar novo equipamento quando nenhum dos registros obtidos do SGC corresponde ao equipamento
+- Exibição de mensagem ao solicitar fechamento da janela de configuração sem que o equipamento ou senha estejam definidos

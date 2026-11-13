@@ -7,11 +7,11 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 
 Módulos utilizados:
 
-- [Electron](https://releases.electronjs.org/) 44.4.5
+- [Electron](https://releases.electronjs.org/) 45.3.2
 - [update-electron-app](https://www.npmjs.com/package/update-electron-app) 3.3.0
 - [auto-launch](https://www.npmjs.com/package/auto-launch) 5.0.6
 - [electron-store](https://www.npmjs.com/package/electron-store) 8.2.0
-- [systeminformation](https://systeminformation.io/) 5.33.14
+- [systeminformation](https://systeminformation.io/) 5.33.21
 - [os](https://www.npmjs.com/package/os) 0.1.2
 - [fetch-installed-software](https://www.npmjs.com/package/fetch-installed-software) 0.0.7
 - [electron-log](https://www.npmjs.com/package/electron-log) 5.4.4
